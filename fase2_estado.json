@@ -1,0 +1,30 @@
+{
+  "modelos": {
+    "baseline": {
+      "id": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+      "dimension": 384,
+      "chroma_dir": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\VectorDB\\chroma_baseline",
+      "coleccion": "ai_act_baseline",
+      "batch_size": 64
+    },
+    "bge_m3": {
+      "id": "BAAI/bge-m3",
+      "dimension": 1024,
+      "chroma_dir": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\VectorDB\\chroma_bge_m3",
+      "coleccion": "ai_act_bge_m3",
+      "batch_size": 32
+    }
+  },
+  "bm25": {
+    "stopwords_count": 101,
+    "documentos": 5192
+  },
+  "rrf": {
+    "k_rrf": 60,
+    "k_candidatos": 20
+  },
+  "corpus": {
+    "fichero": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\Data\\corpus_tfm_procesado.json",
+    "total_fragmentos": 5192
+  }
+}

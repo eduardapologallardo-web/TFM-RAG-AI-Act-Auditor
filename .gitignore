@@ -1,0 +1,22 @@
+# Entorno virtual
+env_tfm/
+
+# Bases de datos vectoriales y modelos pesados
+VectorDB/
+*.pkl
+*.bin
+*.safetensors
+
+# Datos crudos y logs
+Data/
+!Data/*.json
+Logs/
+
+# Archivos temporales de Python y Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Variables de entorno y SO
+.env
+.DS_Store

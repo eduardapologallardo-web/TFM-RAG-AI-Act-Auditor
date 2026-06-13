@@ -1,0 +1,26 @@
+{
+  "faithfulness": {
+    "valor": 0.84,
+    "umbral": 0.85,
+    "aprobado": false,
+    "n_eval": 20
+  },
+  "answer_relevancy": {
+    "valor": 0.825,
+    "umbral": 0.8,
+    "aprobado": true,
+    "n_eval": 20
+  },
+  "context_precision": {
+    "valor": 0.67,
+    "umbral": 0.75,
+    "aprobado": false,
+    "n_eval": 20
+  },
+  "context_recall": {
+    "valor": 0.785,
+    "umbral": 0.75,
+    "aprobado": true,
+    "n_eval": 20
+  }
+}

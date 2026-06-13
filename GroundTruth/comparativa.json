@@ -1,0 +1,26 @@
+{
+  "faithfulness": {
+    "baseline": 0.86,
+    "bge_m3": 0.82,
+    "umbral": 0.85,
+    "ganador": "HybB"
+  },
+  "answer_relevancy": {
+    "baseline": 0.83,
+    "bge_m3": 0.81,
+    "umbral": 0.8,
+    "ganador": "HybB"
+  },
+  "context_precision": {
+    "baseline": 0.63,
+    "bge_m3": 0.71,
+    "umbral": 0.75,
+    "ganador": "HybM"
+  },
+  "context_recall": {
+    "baseline": 0.74,
+    "bge_m3": 0.77,
+    "umbral": 0.75,
+    "ganador": "HybM"
+  }
+}

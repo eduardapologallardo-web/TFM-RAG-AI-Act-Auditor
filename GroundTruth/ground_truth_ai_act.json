@@ -1,0 +1,670 @@
+[
+  {
+    "pregunta": "¿Qué técnicas manipulativas o engañosas están prohibidas según este reglamento?",
+    "respuesta_referencia": "Las técnicas que utilizan componentes subliminales, estímulos de audio, imagen o vídeo que las personas no pueden percibir, así como otras técnicas manipulativas o engañosas que socaven la autonomía, la toma de decisiones o la capacidad de elegir libremente de las personas.",
+    "articulos_referenciados": [],
+    "chunk_id": 4520,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "utilizan component es subliminales, como estímulos de audio, imag en o vídeo que las personas no pueden \npercibir —ya que dic hos estímulos trascienden la percepción humana—, u otras técnicas manipulativas o engañosa s \nque socava n o per judican la autonomía, la to ma de decisiones o la capacidad de elegir libremente de las personas de \nmaneras de las que estas no son realmente conscientes de dic has té cnicas o, cuando lo son, pueden seguir siendo \neng añadas o no pueden controlarlas u oponerles resiste ncia. Esto podría facilitarse, por ejemplo, mediante inte rfaces \ncerebro-máquina o realidad vir tual, dado que per miten un ma y or grado de control acerca de qué estímulos se \npresentan a las personas, en la medida en que pueden alt erar sustancialmente su compor tamiento de un modo que \nsupong a un per juicio considerable. Ad emás, los sistemas de IA también pueden explotar de otras maneras las \nvulnerabilidades de una persona o un colectivo específico de personas der ivadas de su edad, su discapacidad en el \nsentido de lo dispuesto en la Directiva (UE) 2019/882 del Parlament o Europeo y del Consejo (\n16\n) o de una situación"
+  },
+  {
+    "pregunta": "¿Qué tipo de incidentes deben reportar los proveedores de sistemas AI a las autoridades relevantes?",
+    "respuesta_referencia": "Incidentes o malfuncionamientos que lleven a la muerte, daño grave a la salud, interrupción irreversible del funcionamiento y gestión de infraestructura crítica, infracciones de obligaciones legales para proteger derechos fundamentales o daños graves a la propiedad o el medio ambiente.",
+    "articulos_referenciados": [],
+    "chunk_id": 3420,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": ". In this context, providers should also be required to have a system in place to report to the relevant authorities any serious incidents resulting from the use of their AI systems, meaning incident or malfunctioning leading to death or serious damage to health, serious and irreversible disruption of the management and operation of critical infrastructure, infringements of obligations under Union law intended to protect fundamental rights or serious damage to property or the environment."
+  },
+  {
+    "pregunta": "¿Cuál es la base para la lista de delitos penales proporcionada en un anexo a esta regulación?",
+    "respuesta_referencia": "La lista de delitos penales está basada en los 32 delitos penales listados en el Consejo Marco Decisión 2002/584/JHA, considerando que algunos de esos delitos son, en la práctica, probablemente más relevantes que otros.",
+    "articulos_referenciados": [],
+    "chunk_id": 3227,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": ". Moreover, the list of criminal offences provided in an annex to this Regulation is based on the 32 criminal offences listed in the Council Framework Decision 2002/584/JHA ( 18 ) , taking into account that some of those offences are, in practice, likely to be more relevant than others, in that the recourse to ‘real-time’ remote biometric identification could, foreseeably, be necessary and proportionate to highly varying degrees for the practical pursuit of the localisation or identification of a perpetrator or suspect of the different criminal offences listed and having regard to the likely differences in the seriousness, probability and scale of the harm or possible negative consequences"
+  },
+  {
+    "pregunta": "¿Qué tipo de datos operativos sensibles deben ser recopilados por las autoridades para garantizar el cumplimiento del Derecho?",
+    "respuesta_referencia": "Los datos operativos sensibles de los responsables del despliegue de sistemas de IA que sean autoridades",
+    "articulos_referenciados": [],
+    "chunk_id": 4734,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "com prender los datos operativos sensibles de los responsables del despliegue de sist emas de IA que sean autor idades \ng arant es del cump limiento del Derech o. Este sist ema es también fundamental para gar antizar que los posibles r iesgos \nder ivados de los sist emas de IA que siguen «aprendiendo» tras su introducción en el mercado o puesta en ser vicio se \naborden de un modo más ef icient e y opor tuno. En este context o, procede exigir a los prove edores que también \ncuent en con un sistema para comunicar a las autor idades per tinentes cualquier incidente gra ve asociado al uso de sus \nsist emas de IA, entendido como un incidente o defec to que te nga como consecuencia un fallecimient o o daños \ngra ves para la salud, una alteración gra ve e ir reversible de la gestión o el funcionamiento de infraestr ucturas críticas, \nel incumplimient o de obliga ciones der ivadas del Derecho de la Uni ón destinadas a proteg er los derec hos \nfundamentales o daños graves a la propiedad o al medio ambiente.\n(156) Con el objetivo de garantizar el cumplimient o adecuado y efectiv o de los requisitos y obliga ciones previstos en el"
+  },
+  {
+    "pregunta": "¿Cuáles son las regulaciones que se ven afectadas por la modificación del Reglamento (UE) 2018/1139?",
+    "respuesta_referencia": "El fragmento menciona que el Reglamento (UE) 2018/1139 modifica los Regulamentos (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 y Directivas 2014/30/EU y 2014/53/EU de la Parlamento Europeo y del Consejo.",
+    "articulos_referenciados": [],
+    "chunk_id": 3758,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(30) Regulation (EU) 2018/1139 of the European Parliament and of the Council of 4 July 2018 on common rules in the field of civil aviation and establishing a European Union Aviation Safety Agency, and amending Regulations (EC) No 2111/2005, (EC) No 1008/2008, (EU) No 996/2010, (EU) No 376/2014 and Directives 2014/30/EU and 2014/53/EU of the European Parliament and of the Council, and repealing Regulations (EC) No 552/2004 and (EC) No 216/2008 of the European Parliament and of the Council and Council Regulation (EEC) No 3922/91 (OJ L 212, 22.8.2018, p. 1)."
+  },
+  {
+    "pregunta": "¿Cómo se define un sistema AI que presenta un riesgo según el Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "Un sistema AI que presenta un riesgo se entiende como un 'producto que presenta un riesgo' definido en el artículo 3, punto 19 de la Regulación (EU) 2019/1020, siempre y cuando presente riesgos para la salud o seguridad, o los derechos fundamentales, de las personas.",
+    "articulos_referenciados": [
+      "79"
+    ],
+    "chunk_id": 3696,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "79"
+    ],
+    "contexto": "5. The Commission and Member States may exchange, where necessary and in accordance with relevant provisions of international and trade agreements, confidential information with regulatory authorities of third countries with which they have concluded bilateral or multilateral confidentiality arrangements guaranteeing an adequate level of confidentiality.\n\nArticle 79\n\nProcedure at national level for dealing with AI systems presenting a risk\n\n1. AI systems presenting a risk shall be understood as a ‘product presenting a risk’ as defined in Article 3, point 19 of Regulation (EU) 2019/1020, in so far as they present risks to the health or safety, or to fundamental rights, of persons."
+  },
+  {
+    "pregunta": "¿Qué tipo de empresas pueden cumplir con elementos del sistema de gestión de calidad requerido por el artículo 17 de esta regulación de manera simplificada?",
+    "respuesta_referencia": "Las microempresas, según la definición de la Recomendación 2003/361/EC.",
+    "articulos_referenciados": [
+      "17"
+    ],
+    "chunk_id": 3652,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "17"
+    ],
+    "contexto": "Article 63\n\nDerogations for specific operators\n\n1. Microenterprises within the meaning of Recommendation 2003/361/EC may comply with certain elements of the quality management system required by Article 17 of this Regulation in a simplified manner, provided that they do not have partner enterprises or linked enterprises within the meaning of that Recommendation. For that purpose, the Commission shall develop guidelines on the elements of the quality management system which may be complied with in a simplified manner considering the needs of microenterprises, without affecting the level of protection or the need for compliance with the requirements in respect of high-risk AI systems.\n\n2. Paragraph 1 of this Article shall not be interpreted as exempting those operators from fulfilling any other requirements or obligations laid down in this Regulation, including those established in Articles 9, 10, 11, 12, 13, 14, 15, 72 and 73.\n\nCHAPTER VII\n\nGOVERNANCE\n\nSECTION 1\n\nGovernance at Union level\n\nArticle 64\n\nAI Office\n\n1. The Commission shall develop Union expertise and capabilities in the field of AI through the AI Office."
+  },
+  {
+    "pregunta": "¿Cuáles son los objetivos permitidos para el uso de sistemas de identificación biométrica remota en espacios públicos?",
+    "respuesta_referencia": "Los objetivos permitidos son: (i) la búsqueda dirigida de víctimas específicas de secuestro, tráfico de seres humanos o explotación sexual de seres humanos, así como la búsqueda de personas desaparecidas; (ii) la prevención de una amenaza específica, sustancial e inminente para la vida o seguridad física de personas naturales o una amenaza genuina y presente o genuina y previsible de un ataque terrorista; (iii) la localización o identificación de una persona sospechosa de haber cometido un delito penal, con el fin de realizar una investigación criminal o persecución o ejecutar una pena penal.",
+    "articulos_referenciados": [],
+    "chunk_id": 3480,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(h) the use of ‘real-time’ remote biometric identification systems in publicly accessible spaces for the purposes of law enforcement, unless and in so far as such use is strictly necessary for one of the following objectives: (i) the targeted search for specific victims of abduction, trafficking in human beings or sexual exploitation of human beings, as well as the search for missing persons; (ii) the prevention of a specific, substantial and imminent threat to the life or physical safety of natural persons or a genuine and present or genuine and foreseeable threat of a terrorist attack; (iii) the localisation or identification of a person suspected of having committed a criminal offence, for the purpose of conducting a criminal investigation or prosecution or executing a criminal penalty for offences referred to in Annex II and punishable in the Member State concerned by a custodial sentence or a detention order for a maximum period of at least four years.\n\nPoint (h) of the first subparagraph is without prejudice to Article 9 of Regulation (EU) 2016/679 for the processing of biometric data for purposes other than law enforcement."
+  },
+  {
+    "pregunta": "¿Cuál es la misión principal de la Oficina de IA creada por la Decisión de la Comisión (45)?",
+    "respuesta_referencia": "Desarrollar conocimientos especializados y capacidades de la Unión en el ámbito de la IA y contribuir a la aplicación del Derecho de la Unión en materia de IA.",
+    "articulos_referenciados": [],
+    "chunk_id": 4724,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "de la IA. La aplicación y el cumplimi ento efectiv os del present e Reg lamento requieren un marco de gober nanza que \nper mita coordinar y adquir ir conocimient os especializados centrales a escala de la Uni ón. La Ofici na de IA se creó \nmediant e Decisión de la Comisión (\n45\n) y tiene como misión desar rollar conocimient os especializados y capacidades \nde la Uni ón en el ámbito de la IA y contr ibuir a la aplicación del Derecho de la Unión en materia de IA. Los Estados \nmiembros deben f acilitar las tareas de la Oficina de IA con vistas a apo yar el desar rollo de conocimientos \nespecializados y capacidades a escala de la Unión y a f or talecer el funcionamiento del mercado único digital. Además , \ndebe crearse un Consejo de IA compuest o por representant es de los Estados miembros, un gr upo de exper to s \ncientíficos para integrar a la comunidad científ ica y un f oro consultivo para f acilitar las apor taciones de las par te s \ninte resadas a la aplicación del present e Reg lamento, a escala de la Uni ón y nacional. El desar rollo de conocimientos \nDO L de 12.7.2024\nES\nELI: http://data.europa.eu/eli/reg/2024/1689/oj 37/144\n(\n44"
+  },
+  {
+    "pregunta": "¿Qué garantías deben introducir los proveedores o potenciales proveedores de sistemas de inteligencia artificial de alto riesgo para realizar pruebas en condiciones reales?",
+    "respuesta_referencia": "Las garantías deben incluir, entre otras cosas, solicitar el consentimiento informado de las personas naturales para participar en la prueba en condiciones reales.",
+    "articulos_referenciados": [],
+    "chunk_id": 3401,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(141) In order to accelerate the process of development and the placing on the market of the high-risk AI systems listed in an annex to this Regulation, it is important that providers or prospective providers of such systems may also benefit from a specific regime for testing those systems in real world conditions, without participating in an AI regulatory sandbox. However, in such cases, taking into account the possible consequences of such testing on individuals, it should be ensured that appropriate and sufficient guarantees and conditions are introduced by this Regulation for providers or prospective providers. Such guarantees should include, inter alia, requesting informed consent of natural persons to participate in testing in real world conditions, with the exception of law enforcement where the seeking of informed consent would prevent the AI system from being tested. Consent of subjects to participate in such testing under this Regulation is distinct from, and without prejudice to, consent of data subjects for the processing of their personal data under the relevant data protection law"
+  },
+  {
+    "pregunta": "¿Cuáles son los requisitos necesarios para mitigar los riesgos para la salud, la seguridad y los derechos fundamentales en el contexto del Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "La precisión y la ciberseguridad",
+    "articulos_referenciados": [],
+    "chunk_id": 4597,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "la precisión y la cibersegur idad. Dic hos requisito s son necesar ios para mitigar de f or ma ef ectiva los r iesgos para la \nsalud, la segur idad y los derec hos fundamentales. Al no disponerse razonablement e de otras medidas menos \nrestr ictivas del comercio, dic hos requisito s no son restr icciones injustificadas al comercio.\n(67) Los datos de alta calidad y el acceso a dato s de alta calidad desemp eñan un papel esencial a la hora de proporcionar \nuna estr uctura y garantizar el funcionamiento de muchos sist emas de IA, en especial cuando se emplean t écnicas que \nim plican el entrenamiento de modelos, con vistas a g arantizar que el sistema de IA de alt o r iesgo funcione del modo \nprevisto y en condiciones de segur idad y no se con vier ta en una fuente de algún tipo de discr iminación prohibida \npor el Derecho de la Unión. Es preciso instaurar prácticas adecuadas de g estión y gober nanza de dato s para lograr \nque los conjunt os de dato s para el entrenamiento, la validación y la pr ueba sean de alta calidad. Los conjunt os de \ndat os para el entrenamiento, la validación y la pr ueba, incluidas las etiquetas, deben ser per tinentes, lo"
+  },
+  {
+    "pregunta": "¿Qué autoridad debe designar cada Estado miembro según el Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "Cada Estado miembro debe designar una autoridad de vigilancia del mercado que actúe como punto de contacto único.",
+    "articulos_referenciados": [
+      "38"
+    ],
+    "chunk_id": 4732,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "38"
+    ],
+    "contexto": "en los Estados miembros y establecer un único punto de contact o of icial con el público y otros homólogos a escala \nde los Estados miembros y la Uni ón, cada Estado miembro debe designar una autoridad de vigilancia del mercado \nque actúe como punto de contact o único.\nES\nDO L de 12.7.2024\n38/144 ELI: http://data.europa.eu/eli/reg/2024/1689/oj"
+  },
+  {
+    "pregunta": "¿A qué autoridad nacional se informará de un incidente grave según el Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "La autoridad nacional competente elegida por los Estados miembros en los que se ha producido el incidente",
+    "articulos_referenciados": [
+      "74"
+    ],
+    "chunk_id": 5056,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "74"
+    ],
+    "contexto": "gra ves se limitará a los mencionados en el ar tículo 3, punto 49, letra c), del present e Reg lamento, y se hará a la autor idad \nnacional compet ent e elegida para tal fin por los Estados miembros en los que se ha ya producido el incidente .\n11. Las autor idades nacionales compet entes inf or marán de inmediato a la Comisión de todo incidente gra ve, \nindependientement e de han adop tado medidas al respecto, de conf or midad con el ar tículo 20 del Reg lamento \n(UE) 2019/1020.\nSECCIÓN 3\nGar antía del cumplimiento\nAr tículo 74\nVigilancia del mercado y control de los sis temas de IA en el mercado de la Unión\n1. El Reg lamento (UE) 2019/1020 se aplicará a los sistemas de IA regulados por el present e Reg lamento . A efect os de \ng arantía del cumplimient o efectiv o del present e Reg lamento:\nES\nDO L de 12.7.2024\n102/144 ELI: http://data.europa.eu/eli/reg/2024/1689/oj"
+  },
+  {
+    "pregunta": "¿Quién es el responsable del control del EU database y qué tipo de apoyo debe proporcionar a los proveedores?",
+    "respuesta_referencia": "La Comisión Europea es la responsable del control del EU database y debe hacer disponible a los proveedores, potenciales proveedores y usuarios técnicas y administrativas adecuadas.",
+    "articulos_referenciados": [],
+    "chunk_id": 4322,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "6. The Commission shall be the controller of the EU database. It shall make available to providers, prospective provider s \nand deplo y ers adequat e tec hnical and administrative suppor t. The EU database shall comply with the applicable accessibility \nrequirements.\nCHAPTER IX\nPOST -MARKET MONITORING, INFORMA TION SHARING AND MARKET SUR VEILL ANCE\nSECTION 1\nP ost-market monitor ing\nAr ticle 72\nPo s t-mark et monitorin g by pro viders and pos t-mark et monitor ing plan for high-r isk AI sys tems\n1. Providers shall establish and document a post-mark et monitoring syste m in a manner that is propor tionate to the \nnature of the AI tec hnologies and the r isks of the high-r isk AI system.\n2. The post-mark et monito r ing system shall actively and systematically collect, document and analyse relevant data \nwhich ma y be provided by deplo y ers or which ma y be collected through other sources on the perform ance of high-r isk AI \nsyste ms throughout their lifetime, and which allow the provider to evaluate the continuous complia nce of AI systems with \nthe requirements set out in Chap ter III, Section 2. Where relevant, post-mark et monitoring shall include an analysis of the"
+  },
+  {
+    "pregunta": "¿Cuáles son las obligaciones específicas para los proveedores de plataformas en línea muy grandes o motores de búsqueda en línea muy grandes en relación con la detección y divulgación de contenido generado artificialmente?",
+    "respuesta_referencia": "Los proveedores de plataformas en línea muy grandes o motores de búsqueda en línea muy grandes deben identificar y mitigar los riesgos sistémicos que pueden surgir de la difusión de contenido generado artificialmente, incluidos el riesgo de efectos negativos actuales o previsibles sobre procesos democráticos, discursos cívicos y procesos electorales, incluido a través de desinformación.",
+    "articulos_referenciados": [],
+    "chunk_id": 3367,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(120) Furthermore, obligations placed on providers and deployers of certain AI systems in this Regulation to enable the detection and disclosure that the outputs of those systems are artificially generated or manipulated are particularly relevant to facilitate the effective implementation of Regulation (EU) 2022/2065. This applies in particular as regards the obligations of providers of very large online platforms or very large online search engines to identify and mitigate systemic risks that may arise from the dissemination of content that has been artificially generated or manipulated, in particular risk of the actual or foreseeable negative effects on democratic processes, civic discourse and electoral processes, including through disinformation."
+  },
+  {
+    "pregunta": "¿Cuáles son las directivas y regulaciones mencionadas como base para la normativa del Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "La normativa se basa en la Directiva 2014/90/EU, la Directiva (EU) 2016/797 y la Regulación (EU) 2018/858.",
+    "articulos_referenciados": [
+      "16",
+      "17",
+      "18"
+    ],
+    "chunk_id": 4418,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "16",
+      "17",
+      "18"
+    ],
+    "contexto": "16. Directive 2014/90/EU of the European Parliament and of the Council of 23 July 2014 on mar ine equipment and \nrepealing Council Directive 96/98/EC (OJ L 257, 28.8.2014, p. 146);\n17. Directive (EU) 2016/797 of the European Parliament and of the Council of 11 Ma y 2016 on the interop erability of \nthe rail syste m within the European Union (OJ L 138, 26.5.2016, p. 44);\n18. Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 Ma y 2018 on the approval and \nmarke t sur veillance of motor vehicles and their trailers, and of systems, compo nents and separate tec hnical units \nintende d f or such vehicles, amending Regulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive \n2007/46/EC (OJ L 151, 14.6.2018, p. 1);\n19. Regulation (EU) 2019/2144 of the European Parliament and of the Council of 27 No vember 2019 on type-appro val \nrequirements f or motor vehicles and their trailers, and syste ms, compo nents and separate tec hnical units intended \nf or suc h vehicles, as rega rds their g eneral safety and the prot ection of vehicle occupants and vulnerable road users,"
+  },
+  {
+    "pregunta": "¿Qué requisitos adicionales se deben aplicar a los sistemas de IA, incluso si no son de alto riesgo?",
+    "respuesta_referencia": "Los sistemas de AI deberían también ser incentivados a aplicar voluntariamente requisitos adicionales relacionados con elementos de las Directrices de Ética para la Trazabilidad de la Inteligencia Artificial.",
+    "articulos_referenciados": [],
+    "chunk_id": 4068,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "deplo y ers of all AI systems, high-r isk or not, and AI models should also be encourage d to apply on a v oluntar y basis \nadditional requirements relate d, f or exam ple, to the elements of the Uni on’s Ethics Guidelines f or T r ustw or th y AI, \nOJ L, 12.7.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1689/oj 41/144"
+  },
+  {
+    "pregunta": "¿Se prohíbe la utilización de sistemas de inteligencia artificial para analizar riesgos relacionados con fraude financiero o localización de drogas ilícitas?",
+    "respuesta_referencia": "No, según el texto, no se refiere a la prohibición de utilizar AI systems que asesinan la probabilidad de fraude financiero o la localización de narcóticos o bienes ilícitos en función de transacciones sospechosas o rutas conocidas de tráfico.",
+    "articulos_referenciados": [],
+    "chunk_id": 3242,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": ". In any case, that prohibition does not refer to or touch upon risk analytics that are not based on the profiling of individuals or on the personality traits and characteristics of individuals, such as AI systems using risk analytics to assess the likelihood of financial fraud by undertakings on the basis of suspicious transactions or risk analytic tools to predict the likelihood of the localisation of narcotics or illicit goods by customs authorities, for example on the basis of known trafficking routes."
+  },
+  {
+    "pregunta": "¿Qué requisitos deben cumplir los sistemas de inteligencia artificial que procesan datos biométricos para fines distintos del mantenimiento del orden público?",
+    "respuesta_referencia": "Deben seguir cumpliendo con todos los requisitos derivados del artículo 10 de la Directiva (UE) 2016/680.",
+    "articulos_referenciados": [
+      "10",
+      "9(1)"
+    ],
+    "chunk_id": 3238,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "10",
+      "9(1)"
+    ],
+    "contexto": "(39) Any processing of biometric data and other personal data involved in the use of AI systems for biometric identification, other than in connection to the use of real-time remote biometric identification systems in publicly accessible spaces for the purpose of law enforcement as regulated by this Regulation, should continue to comply with all requirements resulting from Article 10 of Directive (EU) 2016/680. For purposes other than law enforcement, Article 9(1) of Regulation (EU) 2016/679 and Article 10(1) of Regulation (EU) 2018/1725 prohibit the processing of biometric data subject to limited exceptions as provided in those Articles. In the application of Article 9(1) of Regulation (EU) 2016/679, the use of remote biometric identification for purposes other than law enforcement has already been subject to prohibition decisions by national data protection authorities."
+  },
+  {
+    "pregunta": "¿Se ha llevado a cabo un informe de auditoría independiente antes del despliegue del EU database?",
+    "respuesta_referencia": "Sí, el procedimiento para establecer la base de datos debe incluir un informe de auditoría independiente.",
+    "articulos_referenciados": [],
+    "chunk_id": 3381,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": ". The Commission should be the controller of the EU database, in accordance with Regulation (EU) 2018/1725. In order to ensure the full functionality of the EU database, when deployed, the procedure for setting the database should include the development of functional specifications by the Commission and an independent audit report. The Commission should take into account cybersecurity risks when carrying out its tasks as data controller on the EU database. In order to maximise the availability and use of the EU database by the public, the EU database, including the information made available through it, should comply with requirements under the Directive (EU) 2019/882."
+  },
+  {
+    "pregunta": "¿Qué sucede si la autoridad de vigilancia del mercado no responde a una solicitud de aprobación para realizar pruebas en condiciones reales dentro de los 30 días establecidos?",
+    "respuesta_referencia": "La prueba en condiciones reales y el plan de prueba en condiciones reales se entenderán aprobados",
+    "articulos_referenciados": [],
+    "chunk_id": 3642,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(b) the market surveillance authority in the Member State where the testing in real world conditions is to be conducted has approved the testing in real world conditions and the real-world testing plan; where the market surveillance authority has not provided an answer within 30 days, the testing in real world conditions and the real-world testing plan shall be understood to have been approved; where national law does not provide for a tacit approval, the testing in real world conditions shall remain subject to an authorisation;"
+  },
+  {
+    "pregunta": "¿Quién es responsable de consultar a los expertos relevantes cuando se establecen las especificaciones funcionales del banco de datos de la UE?",
+    "respuesta_referencia": "La Comisión",
+    "articulos_referenciados": [
+      "71"
+    ],
+    "chunk_id": 3671,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "71"
+    ],
+    "contexto": "CHAPTER VIII\n\nEU DATABASE FOR HIGH-RISK AI SYSTEMS\n\nArticle 71\n\nEU database for high-risk AI systems listed in Annex III\n\n1. The Commission shall, in collaboration with the Member States, set up and maintain an EU database containing information referred to in paragraphs 2 and 3 of this Article concerning high-risk AI systems referred to in Article 6(2) which are registered in accordance with Articles 49 and 60 and AI systems that are not considered as high-risk pursuant to Article 6(3) and which are registered in accordance with Article 6(4) and Article 49. When setting the functional specifications of such database, the Commission shall consult the relevant experts, and when updating the functional specifications of such database, the Commission shall consult the Board.\n\n2. The data listed in Sections A and B of Annex VIII shall be entered into the EU database by the provider or, where applicable, by the authorised representative.\n\n3. The data listed in Section C of Annex VIII shall be entered into the EU database by the deployer who is, or who acts on behalf of, a public authority, agency or body, in accordance with Article 49(3) and (4)."
+  },
+  {
+    "pregunta": "¿Qué deben hacer los proveedores antes de poner en el mercado o utilizar un sistema AI que no sea considerado alto riesgo según el artículo 6(3)?",
+    "respuesta_referencia": "Deben registrarse y su sistema en la base de datos EU referida en el artículo 71.",
+    "articulos_referenciados": [
+      "6(3)",
+      "71"
+    ],
+    "chunk_id": 4240,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "6(3)",
+      "71"
+    ],
+    "contexto": "shall regist er themselves and their syste m in the EU database refe r red to in Ar ticle 71.\n2. Bef ore placing on the market or putting into ser vice an AI system f or which the pro vider has concluded that it is not \nhigh-r isk according to Ar ticle 6(3), that provider or , where applicable, the author ised representative shall regist er \nthemselves and that system in the EU database refer red to in Ar ticle 71.\n3. Bef ore putting into ser vice or using a high-r isk AI syste m listed in Annex III, with the excep tion of high-r isk AI \nsyste ms listed in point 2 of Annex III, deplo y ers that are public author ities, Uni on institutions, bodies, off ices or agencies or \npersons acting on their behalf shall regist er themselves, select the syste m and register its use in the EU database referred to \nin Ar ticle 71.\nOJ L, 12.7.2024\nEN\nELI: http://data.europa.eu/eli/reg/2024/1689/oj 81/144"
+  },
+  {
+    "pregunta": "¿Qué se requiere que incluya la documentación sobre el sistema de gestión de calidad?",
+    "respuesta_referencia": "Deberá cubrir todos los aspectos relacionados con el artículo 17.",
+    "articulos_referenciados": [
+      "17"
+    ],
+    "chunk_id": 4441,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "17"
+    ],
+    "contexto": "(d) the documentation concer ning the quality managem ent syste m which shall co ver all the aspects listed under \nAr ticle 17;\n(e) a descr iption of the procedures in place to ensure that the quality management system remains adequate and \neffe ctive;\n(f) a wr itten declaration that the same application has not been lodg ed with any other notified body .\n3.2. The quality managem ent system shall be assessed b y the notified body , which shall determine whether it satisfies the \nrequirements refe r red to in Ar ticle 17.\nThe decision shall be notif ied to the provider or its author ised representative.\nThe notification shall contain the conclusions of the assessment of the quality management syste m and the reasoned \nassessment decision.\n3.3. The quality manag ement syste m as approved shall continue to be implement ed and maintained by the provid er so \nthat it remains adequate and eff icient.\n3.4. Any intended chang e to the approve d quality manag ement system or the list of AI syste ms covered by the latter shall \nbe brought to the attention of the notified body by the pro vider ."
+  },
+  {
+    "pregunta": "¿Se ha completado un análisis de impacto sobre los derechos fundamentales antes de autorizar el uso del sistema de identificación biométrica en espacios públicos?",
+    "respuesta_referencia": "Sí, según el texto, la autoridad competente debe haber completado un análisis de impacto sobre los derechos fundamentales.",
+    "articulos_referenciados": [],
+    "chunk_id": 3231,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": ". The use of the real-time remote biometric identification system in publicly accessible spaces should be authorised only if the relevant law enforcement authority has completed a fundamental rights impact assessment and, unless provided otherwise in this Regulation, has registered the system in the database as set out in this Regulation. The reference database of persons should be appropriate for each use case in each of the situations mentioned above."
+  },
+  {
+    "pregunta": "¿Cuál es la duración máxima para que las autoridades de supervisión del mercado puedan objetar una medida tomada por otra autoridad de supervisión del mercado?",
+    "respuesta_referencia": "Tres meses desde la recepción de la notificación, o 30 días en caso de incumplimiento con la prohibición de prácticas AI referidas en el artículo 5.",
+    "articulos_referenciados": [
+      "79",
+      "5",
+      "81"
+    ],
+    "chunk_id": 4357,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "79",
+      "5",
+      "81"
+    ],
+    "contexto": "(EU) 2019/1020, marke t sur veillance author ities ma y per f or m appropr iate ch ecks, taking into account in par ticular \ninf or mation stored in the EU database refe r red to in Ar ticle 71 of this Regulation.\nAr ticle 81\nUnion safeguard procedure\n1. Where, within three months of receipt of the notif ication refe r red to in Ar ticle 79(5), or within 30 da ys in the case of \nnon-comp liance with the prohibition of the AI practices refer red to in Ar ticle 5, objections are raised b y the marke t \nsur veillance author ity of a Member State t o a measure taken by another marke t sur veillance author ity , or where the \nCommission considers the measure to be contrar y to Uni on law , the Commission shall without undue dela y ent er into \nconsultation with the marke t sur veillance author ity of the relevant Member Stat e and the operat or or operat ors, and shall \nevaluate the national measure. On the basis of the results of that evaluation, the Commission shall, within six months, or \nwithin 60 da ys in the case of non-comp liance with the prohibition of the AI practices refe r red to in Ar ticle 5, star ting from"
+  },
+  {
+    "pregunta": "¿Cuándo no se aplica la obligación de transparencia para los deployers de sistemas de inteligencia artificial que generan o manipulan contenido falso profundo?",
+    "respuesta_referencia": "La obligación no se aplica cuando el uso está autorizado por ley para detectar, prevenir, investigar o procesar una infracción penal.",
+    "articulos_referenciados": [
+      "4"
+    ],
+    "chunk_id": 3602,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "4"
+    ],
+    "contexto": "4. Deployers of an AI system that generates or manipulates image, audio or video content constituting a deep fake, shall disclose that the content has been artificially generated or manipulated. This obligation shall not apply where the use is authorised by law to detect, prevent, investigate or prosecute criminal offence. Where the content forms part of an evidently artistic, creative, satirical, fictional or analogous work or programme, the transparency obligations set out in this paragraph are limited to disclosure of the existence of such generated or manipulated content in an appropriate manner that does not hamper the display or enjoyment of the work."
+  },
+  {
+    "pregunta": "¿Cuál es la procedimiento que debe seguir la Comisión para establecer especificaciones comunes cuando no hay referencias pertinentes a las normas armonizadas?",
+    "respuesta_referencia": "La Comisión debe poder establecer, mediante actos de ejecución y previa consulta al foro consultivo, especificaciones comunes para determinados requisitos previstos en el presente Reglamento.",
+    "articulos_referenciados": [],
+    "chunk_id": 4680,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "demora indebida. Al preparar la petición de nor malización, la Comisión debe consultar al f oro consultivo y al \nConsejo de IA para recabar los conocimient os especializados per tinent es. No obstante , a f alta de referencias \nper tinent es a las nor mas ar monizadas, la Comisión debe poder establecer , mediante actos de ejecución y previa \nconsulta al f oro consultivo , especifica ciones comunes para determi nados requisitos previstos en el presente \nReg lamento. Las especifi caciones comunes deben ser una solución alter nativa excepci onal para f acilitar la obliga ción \ndel prove edor de cumplir los requisito s del present e Reg lamento cuando ninguna de las organizac iones europeas de \nnor malización ha ya aceptado la petición de nor malización, cuando las nor mas ar monizadas per tinentes respondan \nde f or ma insuf iciente a las preocupaciones en mat er ia de derechos fundamentales, cuando las nor mas ar monizadas \nno cump lan la petición o cuando se produzcan retrasos en la adopción de una nor ma ar monizada adecuada. Cuando \ndic hos retrasos en la adopción de una nor ma ar monizada se deban a la complejidad té cnica de dicha nor ma, la \nDO L de 12.7.2024\nES"
+  },
+  {
+    "pregunta": "¿Cuáles son las disposiciones específicas del Reglamento (UE) 2024/1689 que se aplican al uso de sistemas de categorización biométrica en actividades de cooperación policial y judicial?",
+    "respuesta_referencia": "El artículo 5, apartado 1, párrafo primero, letra g), en la medida en que se aplica al uso de sistemas de categorización biométrica para actividades en el ámbito de la cooperación policial y la cooperación judicial en materia penal.",
+    "articulos_referenciados": [
+      "5"
+    ],
+    "chunk_id": 4541,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "5"
+    ],
+    "contexto": "pár raf o pr imero, letra g), en la medida en que se aplica al uso de sistemas de cate gor ización biométr ica para \nactividades en el ámbit o de la cooperación policial y la cooperación judicial en materia penal, el ar tículo 5, \napar tado 1, pár raf o pr imero, letra d), en la medida en que se aplica al uso de sist emas de IA comp rendidos en el \námbit o de aplicación de dic ho ar tículo, el ar tículo 5, apar tado 1, pár raf o pr imero, letra h), y apar tados 2 a 6, y el \nar tículo 26, apar tado 10, del presente Reg lamento, adoptadas basándose en el ar tículo 16 del TFUE que se ref ieran al \ntratamient o de dat os de caráct er personal por los Estados miembros en el ejercicio de las actividades comp rendidas \nen el ámbito de aplicación de la tercer a par te , título V , capítulos 4 o 5, de dic ho T ratado solo serán vinculant es para \nIrlanda en la medida en que sean vinculantes para est e Estado nor mas de la Uni ón que regulen f or mas de \ncooperación judicial en mat er ia penal y de cooperación policial en cuy o marco deban respetarse las disposiciones \nestablecidas basándose en el ar tículo 16 del TFUE."
+  },
+  {
+    "pregunta": "¿Cómo se establecen los elementos mínimos que debe contener la documentación relacionada con el software y datos divulgados bajo una licencia libre y de código abierto?",
+    "respuesta_referencia": "Los elementos mínimos deben establecerse en anexos específicos del presente Reglamento.",
+    "articulos_referenciados": [
+      "102"
+    ],
+    "chunk_id": 4649,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "102"
+    ],
+    "contexto": "com petent es. Los element os mínimos que debe cont ener dicha documentación deben establecerse en anex os \nespecíficos del presente Reg lamento. La Comisión debe estar f acultada para modif icar dichos anex os mediante acto s \ndeleg ados en función de los avanc es t ecnológicos.\n(102) El sof tw are y los datos, incluidos los modelos, divulgados con ar reg lo a una licencia libre y de código abier to que \nper mita comp ar tirlos abier tamente y que los usuar ios puedan acceder a ellos, o a versiones modifi cadas de dicho \nsof tw ar e y dichos dato s, o utilizarlos, modifi carlos y redistr ibuirlos libremente, pueden contr ibuir a la invest igación y \nla inno vación en el mercado y pueden ofrecer impor tantes opor tunidades de crecimiento para la economía de la \nUni ón. Debe considerarse que los modelos de IA de uso gene ral divulgados con ar reg lo a una licencia libre y de \ncódigo abier to g arantizan alt os niveles de transparencia y aper tura si sus parámetros, incluidos los pesos, la \ninf or mación sobre la arquite ctura del modelo y la inf or mación sobre el uso del modelo, se ponen a disposición del"
+  },
+  {
+    "pregunta": "¿Quién es responsable de la supervisión de los sistemas de inteligencia artificial a nivel nacional?",
+    "respuesta_referencia": "Las autoridades de supervisión del mercado nacional son responsables de la supervisión de los sistemas de inteligencia artificial, excepto en casos específicos donde el AI Office tiene poderes de supervisión.",
+    "articulos_referenciados": [],
+    "chunk_id": 4063,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "tak e place at Union level through the AI Office, which should have the powers of a market sur veillance author ity \nwithin the meaning of Regulation (EU) 2019/1020 f or this pur pose. In all other cases, national market sur veillance \nauthor ities remain responsible f or the super vision of AI syste ms. How ever , f or g eneral-pur pose AI systems that can \nbe used directly by deplo yers f or at least one pur pose that is classified as high-r isk, marke t sur veillance author ities \nshould cooperate with the AI Office to car r y out evaluations of compliance and inf or m the Board and other marke t \nsur veillance author ities according ly . Fur ther more, market sur veillance author ities should be able to request \nassistance from the AI Off ice where the marke t sur veillance author ity is unable to conclude an invest igation on \na high-r isk AI syste m because of its inability to access cer tain inf or mation related to the g eneral-pur pose AI model \non which the high-r isk AI syste m is built. In suc h cases, the procedure regarding mutual assistance in cross-border \ncases in Chapt er VI of Regulation (EU) 2019/1020 should apply mutatis mutandis."
+  },
+  {
+    "pregunta": "¿Cómo se garantiza que los proveedores o usuarios finales de sistemas de inteligencia artificial puedan efectivamente revertir las decisiones tomadas por el sistema en caso de error?",
+    "respuesta_referencia": "Según el texto, las predicciones, recomendaciones o decisiones del sistema de IA pueden ser 'efectivamente reversibles y desestimadas'.",
+    "articulos_referenciados": [],
+    "chunk_id": 3646,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(j) the testing in real world conditions is effectively overseen by the provider or prospective provider, as well as by deployers or prospective deployers through persons who are suitably qualified in the relevant field and have the necessary capacity, training and authority to perform their tasks;\n\n(k) the predictions, recommendations or decisions of the AI system can be effectively reversed and disregarded.\n\n5. Any subjects of the testing in real world conditions, or their legally designated representative, as appropriate, may, without any resulting detriment and without having to provide any justification, withdraw from the testing at any time by revoking their informed consent and may request the immediate and permanent deletion of their personal data. The withdrawal of the informed consent shall not affect the activities already carried out."
+  },
+  {
+    "pregunta": "¿Qué condiciones deben cumplirse para que un sistema AI no sea considerado de alto riesgo según la derogación establecida en el artículo 3?",
+    "respuesta_referencia": "Las condiciones son: (a) el AI sistema es intende d to per f or m a nar row procedural task; (b) el AI syste m is intende d to impro ve the result of a previously comp let ed human activity ; o (c) el AI system is intende d to det ect decision-making patt er ns o r deviations from pr ior decision-making patterns y no reemplaza ni inf luencia la evaluación humana previa.",
+    "articulos_referenciados": [
+      "3"
+    ],
+    "chunk_id": 4123,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "3"
+    ],
+    "contexto": "3. By derogat ion from paragraph 2, an AI system refe r red to in Annex III shall not be considered t o be high-r isk where it \ndoes not pose a significant r isk of har m to the health, safety or fundamental r ights of natural persons, including by not \nmaterially inf luencing the outcome of decision making.\nThe first subparagraph shall apply where an y of the f ollo wing conditions is fulf illed:\n(a) the AI syste m is intende d to per f or m a nar row procedural task;\n(b) the AI syste m is intende d to impro ve the result of a previously comp let ed human activity ;\n(c) the AI system is intende d to det ect decision-making patt er ns or deviations from pr ior decision-making patterns and is \nnot meant to replace or inf luence the previously comp leted human assessment, without proper human review ; or\n(d) the AI system is intended to perfor m a preparat or y task to an assessment relevant f or the pur poses of the use cases \nlisted in Annex III.\nNotwithstanding the first subparagraph, an AI system refer red to in Annex III shall alwa ys be considered to be high-r isk \nwhere the AI system perfor ms profiling of natural persons."
+  },
+  {
+    "pregunta": "¿Cuáles son las directivas mencionadas en este fragmento del Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "Las directivas mencionadas son la Directiva 2014/53/EU y la Directiva 2014/68/EU.",
+    "articulos_referenciados": [],
+    "chunk_id": 4415,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "atmospheres (OJ L 96, 29.3.2014, p. 309);\n6. Directive 2014/53/EU of the European Parliament and of the Council of 16 Apr il 2014 on the har monisation of the \nlaw s of the Member States relating to the making ava ilable on the marke t of radio equipment and repealing Directive \n1999/5/EC (OJ L 153, 22.5.2014, p. 62);\n7. Directive 2014/68/EU of the European Pa rliament and of the Council of 15 Ma y 2014 on the har monisation of the \nlaw s of the Member States relating to the making available on the marke t of pressure equipment (OJ L 189, \n27.6.2014, p. 164);\n8. Regulation (EU) 2016/424 of the European Parliament and of the Council of 9 Marc h 2016 on cablewa y \ninstallations and repealing Directive 2000/9/EC (OJ L 81, 31.3.2016, p. 1);\n9. Regulation (EU) 2016/425 of the European Pa rliament and of the Council of 9 March 2016 on personal prot ective \nequipment and repealing Council Directive 89/686/EEC (OJ L 81, 31.3.2016, p. 51);\n10. Regulation (EU) 2016/426 of the European Parliament and of the Council of 9 March 2016 on appliances bur ning \ng aseous fuels and repealing Directive 2009/142/EC (OJ L 81, 31.3.2016, p. 99);"
+  },
+  {
+    "pregunta": "¿Cuáles son las directivas mencionadas como base para la regulación del Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "Las directivas mencionadas son: Directive 2013/36/EU, Directive 2014/17/EU y Directive (EU) 2016/97.",
+    "articulos_referenciados": [],
+    "chunk_id": 3764,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(49) Directive 2013/36/EU of the European Parliament and of the Council of 26 June 2013 on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms, amending Directive 2002/87/EC and repealing Directives 2006/48/EC and 2006/49/EC (OJ L 176, 27.6.2013, p. 338).\n\n(50) Directive 2014/17/EU of the European Parliament and of the Council of 4 February 2014 on credit agreements for consumers relating to residential immovable property and amending Directives 2008/48/EC and 2013/36/EU and Regulation (EU) No 1093/2010 (OJ L 60, 28.2.2014, p. 34).\n\n(51) Directive (EU) 2016/97 of the European Parliament and of the Council of 20 January 2016 on insurance distribution (OJ L 26, 2.2.2016, p. 19).\n\n(52) Council Regulation (EU) No 1024/2013 of 15 October 2013 conferring specific tasks on the European Central Bank concerning policies relating to the prudential supervision of credit institutions (OJ L 287, 29.10.2013, p. 63)."
+  },
+  {
+    "pregunta": "¿Qué tipo de información deben proporcionar los proveedores y terceros que suministren sistemas de IA de alto riesgo a los proveedores del sistema de IA de alto riesgo?",
+    "respuesta_referencia": "Deben proporcionar la información, las capacidades, el acceso técnico y otras asistencia necesarias sobre la base del estado de la técnica generalmente reconocido.",
+    "articulos_referenciados": [
+      "4"
+    ],
+    "chunk_id": 4880,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "4"
+    ],
+    "contexto": "4. El prove edor de un sist ema de IA de alt o r iesgo y el tercer o que suministre un sist ema de IA de alto r iesgo, \nher ramientas, ser vicios, component es o procesos que se utilicen o integre n en un sist ema de IA de alto r iesgo especifica rán, \nmediante acuerdo escr ito, la inf or mación, las capacidades, el acceso t écnico y otra asistencia que sean necesar ios, sobre la \nbase del estado de la t écnica g eneralmente reconocido, para que el prove edor del sistema de IA de alto r iesgo pueda cump lir \nplenamente las oblig aciones establecidas en el presente Reg lamento. El presente apar tado no se aplicará a terceros que \nponga n a disposición del público her ramientas, ser vicios, procesos o comp onentes distinto s de modelos de IA de uso \ng eneral, en el marco de una licencia libre y de código abier to.\nLa Oficina de IA podrá elaborar y recomendar cláusulas contractuales tipo, de carácte r v oluntar io, entre los proveedores de \nsist emas de IA de alt o r iesgo y te rceros que suministren her ramientas, ser vicios, comp onentes o procesos que se utilicen"
+  },
+  {
+    "pregunta": "¿Cuál es la autoridad responsable de adoptar los elementos detallados del plan de prueba en condiciones reales para sistemas de IA de alto riesgo?",
+    "respuesta_referencia": "La Comisión",
+    "articulos_referenciados": [
+      "5",
+      "98"
+    ],
+    "chunk_id": 5008,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "5",
+      "98"
+    ],
+    "contexto": "per juicio de las prohibiciones establecidas en el ar tículo 5.\nLa Comisión adop tará, mediante un acto de ejecución, los elementos detallados del plan de la pr ueba en condiciones reales. \nDic hos actos de ejecución se adop tarán de conf or midad con el procedimient o de examen a que se refiere el ar tículo 98, \napar tado 2.\nEl present e apar tado se entiende sin per juicio del Derech o de la Uni ón o nacional en materi a de pr uebas en condiciones \nreales de sist emas de IA de alto r iesgo asociados a productos regulados por los actos legislativos de ar monización de la \nUni ón enumerados en el anex o I.\n2. Los proveedores o prove edores pote nciales podrán realizar pr uebas de los sist emas de IA de alt o r iesgo mencionados \nen el anex o III en condiciones reales en cualquier momento antes de la introducción en el mercado o la puesta en ser vicio \ndel sist ema de IA por cuenta propia o en asociación con uno o var ios responsables del despliegue o responsables del \ndespliegue potenc iales.\n3. Las pr uebas de sist emas de IA de alto r iesgo en condiciones reales con ar reg lo al present e ar tículo se ent enderán sin"
+  },
+  {
+    "pregunta": "¿Cómo se ven afectadas las obligaciones de los proveedores y deployers de sistemas de inteligencia artificial en su papel como controladores o procesadores de datos?",
+    "respuesta_referencia": "No se ven afectadas, ya que siguen siendo aplicables las obligaciones derivadas del derecho de la Unión o nacional sobre protección de datos cuando el diseño, desarrollo o uso de los sistemas implica el tratamiento de datos personales.",
+    "articulos_referenciados": [],
+    "chunk_id": 3185,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": ". It also does not affect the obligations of providers and deployers of AI systems in their role as data controllers or processors stemming from Union or national law on the protection of personal data in so far as the design, the development or the use of AI systems involves the processing of personal data. It is also appropriate to clarify that data subjects continue to enjoy all the rights and guarantees awarded to them by such Union law, including the rights related to solely automated individual decision-making, including profiling. Harmonised rules for the placing on the market, the putting into service and the use of AI systems established under this Regulation should facilitate the effective implementation and enable the exercise of the data subjects’ rights and other remedies guaranteed under Union law on the protection of personal data and of other fundamental rights."
+  },
+  {
+    "pregunta": "¿Cuál es la fecha límite para que los códigos de buenas prácticas estén finalizados?",
+    "respuesta_referencia": "El 2 de mayo de 2025",
+    "articulos_referenciados": [],
+    "chunk_id": 4771,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "de 2025. Los códigos de buenas prácticas deben estar final izados a más tardar el 2 de ma y o de 2025 al objeto de \nper mitir a los proveedores demostrar el cumplimient o de sus obligaciones dentro del plazo previsto. La Ofi cina de IA \ndebe velar por que las nor mas y los procedimient os de clasifica ción esté n actualizados con ar reg lo a los ava nces \nt ecnológicos. Asimismo, los Estados miembros deben establecer y poner en conocimient o de la Comisión las \nnor mas referent es a las sanciones, incluidas las multas administrativas, y asegurarse de que para la f ec ha de \naplicación del presente Reg lamento se apliquen de manera adecuada y ef ectiva. P or lo tanto, las disposiciones \nrelativas a las sanciones deben aplicarse a par tir del 2 de agosto de 2025.\n(180) El Super visor Europeo de Protección de Datos y el Comité Europeo de Protección de Datos, a los que se consult ó de \nconf or midad con el ar tículo 42, apar tados 1 y 2, del Reg lamento (UE) 2018/1725, emitieron su dictamen conjunt o \nel 18 de junio de 2021.\nHAN ADOPT ADO EL PRESENTE REGL AMENTO:\nCAPÍTULO I\nDISPOSICIONES GENERALES\nAr tículo 1\nObjet o"
+  },
+  {
+    "pregunta": "¿Qué período de tiempo tienen los importadores para conservar una copia del certificado expedido por el organismo notificado?",
+    "respuesta_referencia": "Un período de diez años a contar desde la introducción en el mercado o la puesta en servicio del sistema de IA de alto riesgo.",
+    "articulos_referenciados": [
+      "47"
+    ],
+    "chunk_id": 4873,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "47"
+    ],
+    "contexto": "sección 2 por par te de dicho sistema.\n5. Los imp or tadores conser varán, durante un período de diez años a contar desde la introducción en el mercado o la \npuesta en ser vicio del sistema de IA de alt o r iesgo, una copia del cer tificado expedido por el org anismo notif icado, en su \ncaso, de las instr ucciones de uso y de la declaración UE de conf or midad a que se ref iere el ar tículo 47.\n6. Los imp or tadores proporcionarán a las autor idades compet ent es per tinentes, previa solicitud motivada, to da la \ninf or mación y la documentación, incluidas las refe r idas en el apar tado 5, que sean necesar ias para demostrar la \nconf or midad de un sist ema de IA de alto r iesgo con los requisit os establecidos en la sección 2 en una lengua que estas \npuedan ent ender f ácilmente. A tal efect o, velarán asimismo por que la documentación técnica pueda ponerse a disposición \nde esas autor idades.\n7. Los imp or tadores cooperarán con las autor idades compet ent es per tinent es en cualquier medida que estas adopt en en \nrelación con un sist ema de IA de alto r iesgo introducido en el mercado por los im por tadores, en par ticular para reducir y"
+  },
+  {
+    "pregunta": "¿Qué Directivas específicas deben cumplir los sistemas de alto riesgo AI en términos de accesibilidad?",
+    "respuesta_referencia": "Directives (EU) 2016/2102 y (EU) 2019/882",
+    "articulos_referenciados": [
+      "(l)"
+    ],
+    "chunk_id": 3521,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "(l)"
+    ],
+    "contexto": "(l) ensure that the high-risk AI system complies with accessibility requirements in accordance with Directives (EU) 2016/2102 and (EU) 2019/882.\n\nArticle 17\n\nQuality management system\n\n1. Providers of high-risk AI systems shall put a quality management system in place that ensures compliance with this Regulation. That system shall be documented in a systematic and orderly manner in the form of written policies, procedures and instructions, and shall include at least the following aspects:\n\n(a) a strategy for regulatory compliance, including compliance with conformity assessment procedures and procedures for the management of modifications to the high-risk AI system;\n\n(b) techniques, procedures and systematic actions to be used for the design, design control and design verification of the high-risk AI system;\n\n(c) techniques, procedures and systematic actions to be used for the development, quality control and quality assurance of the high-risk AI system;\n\n(d) examination, test and validation procedures to be carried out before, during and after the development of the high-risk AI system, and the frequency with which they have to be carried out;"
+  },
+  {
+    "pregunta": "¿Cómo deben considerar los responsables del despliegue la información proporcionada por el proveedor del sistema de IA de alto riesgo en las instrucciones de uso para una evaluación adecuada del impacto?",
+    "respuesta_referencia": "Deben tener en cuenta la información pertinente facilitada por el proveedor, lo que incluye las instrucciones de uso.",
+    "articulos_referenciados": [],
+    "chunk_id": 4642,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "t ener en cuenta la inf or mación per tinente para una evaluación adecuada del impact o, lo que incluye, por ejemplo, la \ninf or mación facilitada por el proveedor del sist ema de IA de alto r iesgo en las instr ucciones de uso. A la luz de los \nr iesgos detect ados, los responsables del despliegue deben determi nar las medidas que han de adop tarse en caso de \nque se mat er ialicen dichos r iesgos, entre las que se incluyen, por ejem plo, sistemas de gober nanza para ese cont exto \nde uso específico, como los mecanismos de super visión humana con ar reg lo a las instr ucciones de uso, los \nprocedimient os de tramitación de reclamaciones y de recurso, ya que podrían ser fundamentales para mitiga r los \nr iesgos para los derechos fundamentales en casos de uso concreto s. T ras llevar a cabo dicha evaluación de impact o, el \nresponsable del despliegue debe notif icarlo a la autor idad de vigilancia del mercado per tinent e. Cuando proceda, \npara recopilar la inf or mación per tinent e necesar ia para llevar a cabo la evaluación de imp acto, los responsables del"
+  },
+  {
+    "pregunta": "¿Cómo se garantiza la inclusión y diversidad en el diseño y desarrollo de sistemas de inteligencia artificial?",
+    "respuesta_referencia": "El Reglamento establece que los sistemas de AI deben diseñarse e implementarse de manera inclusiva y diversa, con atención a las personas vulnerables y accesibilidad para personas con discapacidad. Además, se debe participar a diversos grupos de interés, como organizaciones de la sociedad civil, academia y sindicatos.",
+    "articulos_referenciados": [],
+    "chunk_id": 4069,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "en vironmental sustainability , AI literac y measures, inclusive and diverse design and development of AI systems, \nincluding atte ntion to vulnerable persons and accessibility to persons with disability , stakeholders’ par ticipation with \nthe in volvement, as appropr iate, of relevant stak eholders such as business and civil society organisations, academia, \nresearc h org anisations, trade unions and consumer prot ection org anisations in the design and development of AI \nsyste ms, and diversity of the development t eams, including g ender balance. T o ensure that the v oluntar y codes of \nconduct are effe ctive, they should be based on clear objectives and ke y perf or mance indicators to measure the \nac hievement of those objectives. They should also be developed in an inclusive wa y , as appropr iate, with the \nin v olvement of relevant stakeholders suc h as business and civil society organisations, academia, research \norg anisations, trade unions and consumer prot ection organisation. The Commission ma y develop initiatives, \nincluding of a sect oral nature, to f acilitate the lowering of tec hnical bar r iers hinder ing cross-border exc hang e of data"
+  },
+  {
+    "pregunta": "¿Cuál es la normativa que se modifica con la aprobación y vigilancia de vehículos y sus sistemas, componentes y unidades técnicas separadas?",
+    "respuesta_referencia": "Regulaciones (EC) No 715/2007 y (EC) No 595/2009",
+    "articulos_referenciados": [
+      "29"
+    ],
+    "chunk_id": 3897,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "29"
+    ],
+    "contexto": "(\n29\n) Regulation (EU) 2018/858 of the European Parl iament and of the Council of 30 Ma y 2018 on the approval and market sur veillance \nof motor vehicles and their trailers, and of systems, componen ts and separate tec hnical units intended f or suc h vehicles, amending \nRegulations (EC) No 715/2007 and (EC) No 595/2009 and repealing Directive 2007/46/EC (OJ L 151, 14.6.2018, p. 1)."
+  },
+  {
+    "pregunta": "¿Qué medidas de supervisión humana se han implementado para facilitar la interpretación de los resultados de los sistemas de IA de alto riesgo?",
+    "respuesta_referencia": "Las medidas de supervisión humana se refieren a lo establecido en el artículo 14, incluidas las medidas técnicas puestas en lugar para facilitar la interpretación de los resultados de los sistemas de IA de alto riesgo por parte de los usuarios.",
+    "articulos_referenciados": [
+      "14"
+    ],
+    "chunk_id": 3513,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "14"
+    ],
+    "contexto": "(c) the changes to the high-risk AI system and its performance which have been pre-determined by the provider at the moment of the initial conformity assessment, if any;\n\n(d) the human oversight measures referred to in Article 14, including the technical measures put in place to facilitate the interpretation of the outputs of the high-risk AI systems by the deployers;\n\n(e) the computational and hardware resources needed, the expected lifetime of the high-risk AI system and any necessary maintenance and care measures, including their frequency, to ensure the proper functioning of that AI system, including as regards software updates;\n\n(f) where relevant, a description of the mechanisms included within the high-risk AI system that allows deployers to properly collect, store and interpret the logs in accordance with Article 12.\n\nArticle 14\n\nHuman oversight\n\n1. High-risk AI systems shall be designed and developed in such a way, including with appropriate human-machine interface tools, that they can be effectively overseen by natural persons during the period in which they are in use."
+  },
+  {
+    "pregunta": "¿Qué tipo de servicios se deben ofrecer a los proveedores potenciales en las arenas regulatorias de IA, especialmente a las PME y start-ups?",
+    "respuesta_referencia": "Se les debe dirigir a servicios como la guía para la implementación de esta regulación, así como otros servicios que agreguen valor como ayuda con documentos de estandarización y certificación, facilidades de prueba y experimentación, Hubs de Innovación Digital Europeos y centros de excelencia.",
+    "articulos_referenciados": [
+      "3"
+    ],
+    "chunk_id": 3635,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "3"
+    ],
+    "contexto": "3. Prospective providers in the AI regulatory sandboxes, in particular SMEs and start-ups, shall be directed, where relevant, to pre-deployment services such as guidance on the implementation of this Regulation, to other value-adding services such as help with standardisation documents and certification, testing and experimentation facilities, European Digital Innovation Hubs and centres of excellence.\n\n4. Where national competent authorities consider authorising testing in real world conditions supervised within the framework of an AI regulatory sandbox to be established under this Article, they shall specifically agree the terms and conditions of such testing and, in particular, the appropriate safeguards with the participants, with a view to protecting fundamental rights, health and safety. Where appropriate, they shall cooperate with other national competent authorities with a view to ensuring consistent practices across the Union.\n\nArticle 59\n\nFurther processing of personal data for developing certain AI systems in the public interest in the AI regulatory sandbox"
+  },
+  {
+    "pregunta": "¿Qué información debe presentar un responsable del despliegue de sistemas de IA de alto riesgo para inscribirse en el registro de confiabilidad?",
+    "respuesta_referencia": "El nombre, la dirección y los datos de contacto del responsable del despliegue, así como el nombre, la dirección y los datos de contacto de la persona que presenta la información en su nombre.",
+    "articulos_referenciados": [
+      "49"
+    ],
+    "chunk_id": 5190,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "49"
+    ],
+    "contexto": "Sección C — Inf or mación que deben presentar los responsables del despliegue de sistemas de IA de alt o r iesgo de \nconf or midad con el ar tículo 49, apar tado 3\nCon respecto a los sistemas de IA de alto r iesgo que va yan a inscr ibirse en el registro de conf or midad con el ar tículo 49, \napar tado 3, se facilitará y se actualizará debidamente la inf or mación siguiente:\n1. El nombre, la dirección y los dat os de contact o del responsable del despliegue.\n2. El nombre, la dirección y los dato s de contact o de la persona que present e la inf or mación en nombre del responsable \ndel despliegue.\n3. La URL de entrada del sistema de IA en la base de dato s de la UE por par te de su proveedor .\n4. Un resumen de las conclusiones de la evaluación de imp acto relativa a los derechos fundamentales realizada de \nconf or midad con el ar tículo 27.\n5. Un resumen de la evaluación de imp acto relativa a la prot ección de dat os realizada de conf or midad con el \nar tículo 35 del Reg lamento (UE) 2016/679 o el ar tículo 27 de la Directiva (UE) 2016/680, tal como se especifi ca en \nel ar tículo 26, apar tado 8, del present e Reg lamento, cuando proceda.\nDO L de 12.7.2024\nES"
+  },
+  {
+    "pregunta": "¿Quién se considera proveedor según la definición del Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "Una persona física o jurídica, autoridad pública, órgano u organización que desarrolle un sistema de IA o un modelo de IA de uso general y lo introduzca en el mercado o ponga en servicio con su propio nombre o marca.",
+    "articulos_referenciados": [
+      "3"
+    ],
+    "chunk_id": 4780,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "3"
+    ],
+    "contexto": "3) «prove edor»: una persona física o jurídica, auto r idad pública, órg ano u org anismo que desar rolle un sist ema de IA o un \nmodelo de IA de uso general o para el que se desar rolle un sist ema de IA o un modelo de IA de uso general y lo \nintroduzca en el mercado o ponga en ser vicio el sistema de IA con su propio nombre o marca, previo pago \no gratuitamente;\n4) «responsable del despliegue»: una persona física o jurídica, o autor idad pública, órgano u org anismo que utilice un \nsist ema de IA bajo su propia autor idad, salvo cuando su uso se enmarque en una actividad personal de carácter no \nprof esional;\n5) «representant e auto r izado»: una persona física o jurídica ubicada o establecida en la Uni ón que ha ya recibido y aceptado \nel mandat o por escr ito de un proveedor de un sistema de IA o de un modelo de IA de uso g eneral para cump lir las \noblig aciones y llevar a cabo los procedimient os establecidos en el present e Reg lamento en representación de dicho \npro veedor;\n6) «imp or tador»: una persona física o jurídica ubicada o establecida en la Uni ón que introduzca en el mercado un sist ema"
+  },
+  {
+    "pregunta": "¿Qué tipo de sistemas AI están prohibidos para detectar el estado emocional de individuos en situaciones relacionadas con el lugar de trabajo y la educación?",
+    "respuesta_referencia": "Los sistemas AI destinados a detectar el estado emocional de individuos en situaciones relacionadas con el lugar de trabajo y la educación deberían estar prohibidos.",
+    "articulos_referenciados": [],
+    "chunk_id": 3889,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "AI syste ms inte nded to be used to detect the emotional state of individuals in situations related to the w orkplace and \neducation should be prohibite d. That prohibition should not cover AI systems placed on the mark et str ictly f or \nmedical or saf ety reasons, suc h as systems inte nded f or therapeutical use.\n(45) Practices that are prohibited by Uni on law , including data prot ection law , non-discr imination law , consumer \nprot ection law , and competition law , should not be affe cted by this Regulation.\n(46) High-r isk AI systems should only be placed on the Uni on marke t, put into ser vice or used if the y comply with \ncer tain mandato r y requirements. Those requirements should ensure that high-r isk AI systems available in the Uni on \nor whose output is other wise used in the Union do not pose unaccepta ble r isks t o im por tant Uni on public inte rests \nas recognised and protect ed by Uni on law . On the basis of the New Legislative Framework, as clar ified in the \nCommission notice ‘ The “Blue Guide” on the imp lementation of EU product r ules 2022’ (\n20\n), the general r ule is that"
+  },
+  {
+    "pregunta": "¿Qué tipo de proveedores deben registrarse y proporcionar información sobre sus sistemas AI en la base de datos EU?",
+    "respuesta_referencia": "Los proveedores de sistemas AI de alto riesgo, excepto aquellos relacionados con productos que caen dentro del alcance de la legislación de armonización existente de la Unión",
+    "articulos_referenciados": [],
+    "chunk_id": 3379,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(131) In order to facilitate the work of the Commission and the Member States in the AI field as well as to increase the transparency towards the public, providers of high-risk AI systems other than those related to products falling within the scope of relevant existing Union harmonisation legislation, as well as providers who consider that an AI system listed in the high-risk use cases in an annex to this Regulation is not high-risk on the basis of a derogation, should be required to register themselves and information about their AI system in an EU database, to be established and managed by the Commission. Before using an AI system listed in the high-risk use cases in an annex to this Regulation, deployers of high-risk AI systems that are public authorities, agencies or bodies, should register themselves in such database and select the system that they envisage to use. Other deployers should be entitled to do so voluntarily. This section of the EU database should be publicly accessible, free of charge, the information should be easily navigable, understandable and machine-readable"
+  },
+  {
+    "pregunta": "¿Cómo se definen los componentes de inteligencia artificial (AI) que son gratuitos y de código abierto según la regulación?",
+    "respuesta_referencia": "Los componentes de AI que son gratuitos y de código abierto cubren el software y los datos, incluyendo modelos y modelos generales de propósito amplio de AI, herramientas, servicios o procesos de un sistema de AI.",
+    "articulos_referenciados": [],
+    "chunk_id": 3980,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "t er ms of distr ibution are respected.\n(103) Free and open-source AI comp onents covers the sof tware and data, including models and g eneral-pur pose AI \nmodels, tools, ser vices or processes of an AI syste m. Free and open-source AI components can be provided through \ndiff erent ch annels, including their development on open repositor ies. For the pur poses of this Regulation, AI \ncom ponents that are provid ed aga inst a pr ice or other wise monetised, including through the provision of t echnical \nsuppor t or other ser vices, including through a sof tware platf or m, related to the AI comp onent, or the use of \npersonal data f or reasons other than exclusively f or imp ro ving the secur ity , compatibility or interoperability of the \nsof tware, with the ex ception of transactions between microenter pr ises, should not benef it from the excep tions \npro vided to free and open-source AI components. The fact of making AI components availa ble through open \nreposit or ies should not, in itself, constitute a monetisation.\n(104) The provid ers of g eneral-pur pose AI models that are released under a free and open-source licence, and whose"
+  },
+  {
+    "pregunta": "¿Cuál es la posición del Comisariado Europeo sobre la elaboración de códigos de práctica a nivel de la Unión para facilitar la implementación efectiva de las obligaciones relacionadas con la detección y etiquetado de contenido generado o manipulado artificialmente?",
+    "respuesta_referencia": "El Comisariado Europeo puede fomentar y facilitar la elaboración de códigos de práctica a nivel de la Unión para facilitar la implementación efectiva de las obligaciones relacionadas con la detección y etiquetado de contenido generado o manipulado artificialmente.",
+    "articulos_referenciados": [],
+    "chunk_id": 3389,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "(135) Without prejudice to the mandatory nature and full applicability of the transparency obligations, the Commission may also encourage and facilitate the drawing up of codes of practice at Union level to facilitate the effective implementation of the obligations regarding the detection and labelling of artificially generated or manipulated content, including to support practical arrangements for making, as appropriate, the detection mechanisms accessible and facilitating cooperation with other actors along the value chain, disseminating content or checking its authenticity and provenance to enable the public to effectively distinguish AI-generated content."
+  },
+  {
+    "pregunta": "¿Cómo se garantiza la no discriminación en el acceso a los datos de alta calidad para el entrenamiento, validación y prueba de los sistemas de inteligencia artificial?",
+    "respuesta_referencia": "Se facilita el acceso no discriminatorio a los datos de salud y se permite el entrenamiento de algoritmos de IA en esos conjuntos de datos de manera privada, segura, oportuna, transparente y confiable.",
+    "articulos_referenciados": [],
+    "chunk_id": 3937,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "and non-discr iminat or y access to high-quality data f or the training, validation and testing of AI syste ms. For \nexam ple, in health, the European health data space will facilitat e non-discr iminatory access to health data and the \ntraining of AI algor ithms on those data sets, in a pr ivacy-preser ving, secure, timely , transparent and tr ustw or th y \nmanner , and with an appropr iate institutional gove r nance. Relevant comp etent author ities, including sect oral ones, \npro viding or suppor ting the access to data ma y also suppor t the pro vision of high-quality data f or the training, \nvalidation and testing of AI syste ms.\n(69) The r ight to pr ivacy and to protection of personal data must be guarante ed throughout the entire lif ecy cle of the AI \nsyste m. In this regard , the pr inciples of data minimisation and data protection b y design and by default, as set out in \nUni on data protect ion law , are applicable when personal data are processed. Measures take n by provid ers to ensure \ncom pliance with those pr inciples ma y include not only anonymisati on and encr ypt ion, but also the use of"
+  },
+  {
+    "pregunta": "¿Cómo se determina si un modelo de IA de uso general tiene capacidades de gran impacto?",
+    "respuesta_referencia": "Un modelo de IA de uso general se clasificará como modelo de IA de uso general con riesgo sistémico si reúne alguna de las condiciones establecidas en el artículo 51, punto a) o b)",
+    "articulos_referenciados": [
+      "51"
+    ],
+    "chunk_id": 4963,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "51"
+    ],
+    "contexto": "no es adecuado, la Comisión podrá adop tar un acto de ejecución que especifique nor mas comunes para el cump limiento de \nlas citadas obligacio nes de conf or midad con el procedimiento de examen establecido en el ar tículo 98, apar tado 2.\nCAPÍTULO V\nMODEL OS DE IA DE USO GENERAL\nSECCIÓN 1\nRegl as de clasificación\nAr tículo 51\nReglas de clasif icación de los modelos de IA de uso general como modelos de IA de uso general con r iesgo \nsist émico\n1. Un modelo de IA de uso general se clasif icará como modelo de IA de uso g eneral con r iesgo sist émico si reúne alguna \nde las siguient es condiciones:\na) tiene capacidades de gran im pacto evaluadas a par tir de her ramientas y met odologías té cnicas adecuadas, como \nindicadores y parámetros de refere ncia;\nb) con ar reg lo a una decisión de la Comisión, adop tada de ofic io o a raíz de una aler ta cualificada del gr upo de exper to s \ncientífi cos, tiene capacidades o un imp acto equivalent e a los establecidos en la letra a), te niendo en cuenta los cr iterio s \nestablecidos en el anex o XIII.\n2. Se presumirá que un modelo de IA de uso general tiene capacidades de gran imp acto con ar reg lo al apar tado 1,"
+  },
+  {
+    "pregunta": "¿Qué tipo de tareas pueden realizar los sistemas de inteligencia artificial que se consideran preparatorias para una evaluación, según el Reglamento (UE) 2024/1689?",
+    "respuesta_referencia": "Según el texto, estos sistemas pueden realizar tareas preparatorias para una evaluación, como soluciones de procesamiento de archivos, que incluyen funciones de índice, búsqueda, procesamiento de texto y habla.",
+    "articulos_referenciados": [],
+    "chunk_id": 3905,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "proper human review . Such AI syste ms include f or instance those that, given a cer tain grading patt er n of a teac her , \ncan be used to ch eck ex post whether the t eacher ma y hav e deviated from the grading pattern so as to f lag potent ial \ninconsiste ncies or anomalies. The f our th condition should be that the AI syste m is intended to perf or m a task that is \nonly preparat or y to an assessment relevant f or the pur poses of the AI systems listed in an annex t o this Regulation, \nthus making the possible imp act of the output of the system ver y low in t er ms of representing a r isk f or the \nassessment to f ollow . That condition covers, inte r alia, smar t solutions f or file handling, which include var ious \nfunctions from indexing, search ing, te xt and speech processing or linking data t o other data sources, or AI syste ms \nused f or translation of initial documents. In any case, AI systems used in high-r isk use-cases list ed in an annex to this \nRegulation should be considered to pose signifi cant r isks of har m to the health, safety or fundamental r ights if the AI"
+  },
+  {
+    "pregunta": "¿Qué información debe contener el certificado y sus anexos para evaluar la conformidad del sistema de inteligencia artificial?",
+    "respuesta_referencia": "La certificación y sus anexos deben contener toda la información relevante para permitir la evaluación de la conformidad del sistema de inteligencia artificial y, en su caso, el control del mismo mientras se utiliza.",
+    "articulos_referenciados": [],
+    "chunk_id": 4446,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": "identifica tion of the AI syste m.\nThe cer tif icat e and its annexe s shall contain all relevant inf or mation to allow the conf or mity of the AI system to be \nevaluated, and to allow f or control of the AI system while in use, where applicable.\nWhere the AI syste m is not in conf or mity with the requirements set out in Chap ter III, Section 2, the notif ied body \nshall refuse to issue a Union te ch nical documentation assessment cer tif icat e and shall inf or m the applicant \naccording ly , giving detailed reasons f or its refusal.\nWhere the AI syste m does not meet the requirement relating to the data used t o train it, re-training of the AI system \nwill be needed pr ior to the application f or a new conf or mity assessment. In this case, the reasoned assessment \ndecision of the notif ied body refusing to issue the Uni on te chnical documentation assessment cer tif icat e shall \ncontain specific considerations on the quality data used to train the AI syste m, in par ticular on the reasons f or \nnon-comp liance.\n4.7. Any chang e to the AI system that could affe ct the comp liance of the AI system with the requirements or its intended"
+  },
+  {
+    "pregunta": "¿Cuáles son las razones por las que la Comisión puede imponer una multa o pago periódico a una empresa?",
+    "respuesta_referencia": "La Comisión puede imponer una multa o pago periódico si la empresa ha infringido las disposiciones relevantes de este Reglamento, no ha cumplido con una solicitud de documentación o información según el artículo 91, o ha suministrado información incorrecta, incompleta o engañosa.",
+    "articulos_referenciados": [
+      "92",
+      "93",
+      "91"
+    ],
+    "chunk_id": 3736,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "92",
+      "93",
+      "91"
+    ],
+    "contexto": "(a) infringed the relevant provisions of this Regulation;\n\n(b) failed to comply with a request for a document or for information pursuant to Article 91, or supplied incorrect, incomplete or misleading information;\n\n(c) failed to comply with a measure requested under Article 93;\n\n(d) failed to make available to the Commission access to the general-purpose AI model or general-purpose AI model with systemic risk with a view to conducting an evaluation pursuant to Article 92.\n\nIn fixing the amount of the fine or periodic penalty payment, regard shall be had to the nature, gravity and duration of the infringement, taking due account of the principles of proportionality and appropriateness. The Commission shall also into account commitments made in accordance with Article 93(3) or made in relevant codes of practice in accordance with Article 56.\n\n2. Before adopting the decision pursuant to paragraph 1, the Commission shall communicate its preliminary findings to the provider of the general-purpose AI model and give it an opportunity to be heard.\n\n3. Fines imposed in accordance with this Article shall be effective, proportionate and dissuasive."
+  },
+  {
+    "pregunta": "¿Deben los distribuidores informar al proveedor o importador del sistema de IA de alto riesgo si este presenta un riesgo en el sentido del artículo 79, apartado 1?",
+    "respuesta_referencia": "Sí, según corresponda",
+    "articulos_referenciados": [
+      "79"
+    ],
+    "chunk_id": 4875,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "79"
+    ],
+    "contexto": "conseguido esa conf or midad. Ad emás, si el sist ema de IA de alt o r iesgo presenta un r iesgo en el sentido del ar tículo 79, \napar tado 1, el distr ibuidor inf or mará de ello al prove edor o imp or tador del sist ema, según cor responda.\n3. Mientras sean responsables de un sistema de IA de alto r iesgo, los distr ibuidores se asegurarán de que las condiciones \nde almacenamiento o transpor te , cuando proceda, no comprome ten el cumplimient o por par te del sist ema de los requisito s \nestablecidos en la sección 2.\n4. Los distr ibuidores que consideren o t engan motivos para considerar , con ar reg lo a la inf or mación en su poder , que un \nsist ema de IA de alt o r iesgo que han comercializado no es conf or me con los requisit os establecidos en la sección 2 \nadop tarán las medidas cor rect oras necesar ias para que sea conf or me, para retirarlo del mercado o recuperarlo, o velarán por \nque el prove edor , el imp or tador u otro operador per tinent e, según proceda, adop te dichas medidas cor rect oras. Cuando un \nsist ema de IA de alto r iesgo present e un r iesgo en el sentido del ar tículo 79, apar tado 1, su distr ibuidor inf or mará"
+  },
+  {
+    "pregunta": "¿Cómo se clasifican los sistemas de inteligencia artificial que determinan la concesión o denegación de beneficios y servicios por parte de las autoridades?",
+    "respuesta_referencia": "Se clasifican como alto riesgo si pueden tener un impacto significativo en el sustento de las personas y pueden infringir sus derechos fundamentales.",
+    "articulos_referenciados": [],
+    "chunk_id": 3271,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [],
+    "contexto": ". If AI systems are used for determining whether such benefits and services should be granted, denied, reduced, revoked or reclaimed by authorities, including whether beneficiaries are legitimately entitled to such benefits or services, those systems may have a significant impact on persons’ livelihood and may infringe their fundamental rights, such as the right to social protection, non-discrimination, human dignity or an effective remedy and should therefore be classified as high-risk. Nonetheless, this Regulation should not hamper the development and use of innovative approaches in the public administration, which would stand to benefit from a wider use of compliant and safe AI systems, provided that those systems do not entail a high risk to legal and natural persons. In addition, AI systems used to evaluate the credit score or creditworthiness of natural persons should be classified as high-risk AI systems, since they determine those persons’ access to financial resources or essential services such as housing, electricity, and telecommunication services"
+  },
+  {
+    "pregunta": "¿Cuáles son las condiciones bajo las cuales los proveedores y proveedores potenciales en el espacio controlado de pruebas para la IA pueden utilizar datos personales recabados para otros fines?",
+    "respuesta_referencia": "Únicamente en determinadas condiciones, de conformidad con el artículo 6, apartado 4, y el artículo 9, apartado 2, letra g) del Reglamento (UE) 2016/679 y los artículos 5, 6 y 10",
+    "articulos_referenciados": [
+      "6",
+      "9"
+    ],
+    "chunk_id": 4709,
+    "fuente": "Reglamento (UE) 20241689 (AI Act)",
+    "articulos_fuente": [
+      "6",
+      "9"
+    ],
+    "contexto": "auto r idades nacionales comp etent es y los par ticipantes en el espacio controlado de pr uebas para la IA, las pr uebas en \ncondiciones reales también podrán g estionarse y super visarse en el marco del espacio controlado de pr uebas para \nla IA.\n(140) El present e Reg lamento debe proporcionar la base jurídica para que los prove edores y los proveedores potenciales en \nel espacio controlado de pr uebas para la IA utilicen dato s personales recabados para otros fines para desar rollar \ndet er minados sist emas de IA en f av or del inte rés público en el espacio controlado de pr uebas para la IA, únicamente \nen det er minadas condiciones, de conf or midad con el ar tículo 6, apar tado 4, y el ar tículo 9, apar tado 2, letra g), del \nReg lamento (UE) 2016/679 y los ar tículos 5, 6 y 10 del Reg lamento (UE) 2018/1725, y sin per juicio de lo dispuesto \nen el ar tículo 4, apar tado 2, y el ar tículo 10 de la Directiva (UE) 2016/680. Siguen siendo aplicables las demás \noblig aciones de los responsables del tratamient o y los derec hos de los intere sados en vir tud del Reg lamento"
+  }
+]

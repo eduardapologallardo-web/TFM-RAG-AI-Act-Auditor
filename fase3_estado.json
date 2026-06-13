@@ -1,0 +1,62 @@
+{
+  "modelo_generativo": {
+    "id": "llama3.1:8b",
+    "backend": "Ollama",
+    "base_url": "http://localhost:11434",
+    "temperatura": 0.0,
+    "num_predict": 1024,
+    "num_ctx": 4096
+  },
+  "recuperador": {
+    "tipo": "hibrido_rrf_cross_encoder",
+    "embedding": "BAAI/bge-m3",
+    "lexical": "BM25",
+    "reranker": "BAAI/bge-reranker-v2-m3",
+    "k_candidatos": 30,
+    "k_rrf": 15,
+    "k_final": 5,
+    "filtro_idioma": "es"
+  },
+  "componentes": [
+    "Etiquetado de idioma en ChromaDB",
+    "Stopwords ampliadas para dominio jurídico",
+    "Normalización de acentos en tokenizador BM25",
+    "Persistencia del índice BM25"
+  ],
+  "evaluacion": {
+    "faithfulness": {
+      "valor": 0.84,
+      "umbral": 0.85,
+      "aprobado": false,
+      "n_eval": 20
+    },
+    "answer_relevancy": {
+      "valor": 0.825,
+      "umbral": 0.8,
+      "aprobado": true,
+      "n_eval": 20
+    },
+    "context_precision": {
+      "valor": 0.67,
+      "umbral": 0.75,
+      "aprobado": false,
+      "n_eval": 20
+    },
+    "context_recall": {
+      "valor": 0.785,
+      "umbral": 0.75,
+      "aprobado": true,
+      "n_eval": 20
+    }
+  },
+  "ground_truth": {
+    "n_pares": 60,
+    "fichero": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\GroundTruth\\ground_truth_ai_act.json"
+  },
+  "artefactos": {
+    "bm25_pkl": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\VectorDB\\indice_bm25.pkl",
+    "ground_truth": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\GroundTruth\\ground_truth_ai_act.json",
+    "resultados": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\GroundTruth\\resultados_hyb_bge.json",
+    "comparativa": "E:\\Proyectos_IA\\Deep_Learning\\TFM\\GroundTruth\\comparativa.json"
+  }
+}
